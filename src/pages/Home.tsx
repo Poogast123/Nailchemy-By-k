@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { Star, Clock, Award } from 'lucide-react';
 
 const Home = () => {

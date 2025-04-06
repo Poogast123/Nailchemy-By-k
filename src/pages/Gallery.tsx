@@ -1,4 +1,4 @@
-import React from "react";
+// React import is not needed as it's not directly used
 
 const galleryImages = [
   { url: "/gallery/7.jpeg", alt: "Creative nail design" },

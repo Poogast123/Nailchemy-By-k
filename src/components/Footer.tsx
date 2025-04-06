@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { Instagram, Facebook, Mail, MapPin, Phone } from 'lucide-react';
 
 const Footer = () => {
@@ -28,8 +28,8 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold text-primary-600 mb-4">Follow Us</h3>
             <div className="flex space-x-4">
-              <a href="https://www.instagram.com/nailchemy.by.k/" className="text-gray-600 hover:text-primary-500"><Instagram className="h-6 w-6" /></a>
-              <a href="https://www.facebook.com/share/1514GcNaZK/" className="text-gray-600 hover:text-primary-500"><Facebook className="h-6 w-6" /></a>
+              <a href="https://www.instagram.com/nailchemy.by.k/" className="text-gray-600 hover:text-primary-500" title="Follow us on Instagram"><Instagram className="h-6 w-6" /></a>
+              <a href="https://www.facebook.com/share/1514GcNaZK/" className="text-gray-600 hover:text-primary-500" title="Follow us on Facebook"><Facebook className="h-6 w-6" /></a>
             </div>
           </div>
         </div>
